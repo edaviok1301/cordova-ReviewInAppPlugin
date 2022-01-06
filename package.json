@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "Emilio Paredes"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edaviok1301/cordova-ReviewInAppPlugin"
+  },
+  "name": "cordova-plugin-firebase",
+  "version": "0.0.1",
+  "description": "Cordova plugin for review app un playstore",
+  "cordova": {
+    "id": "cordova-plugin-reviewinapp",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "review",
+    "playstore"
+  ]
+}
