@@ -28,11 +28,11 @@
 
 		<config-file parent="/*" target="AndroidManifest.xml" />
 
-		<source-file src="src/android/cordova-ReviewInAppPlugin.java" target-dir="src/ReviewInAppPlugin/cordova-ReviewInAppPlugin" />
+		<source-file src="src/android/ReviewInAppPluginClass.java" target-dir="src/ReviewInAppPlugin" />
 
 		<framework src="com.google.android.play:core:ANDROID_PLAYCORE_VERSION" />
    	</platform>
 
 
-   	
+
 </plugin>
