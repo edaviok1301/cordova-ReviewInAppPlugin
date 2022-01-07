@@ -40,7 +40,7 @@ public class ReviewInAppPluginClass extends CordovaPlugin {
         return false;
     }
 
-    private void requestReview(String message, CallbackContext callbackContext) {
+    private void requestReview(Boolean isFake, CallbackContext callbackContext) {
 
         ReviewManager manager;
         if(isFake){
