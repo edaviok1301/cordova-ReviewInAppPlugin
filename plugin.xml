@@ -18,7 +18,7 @@
 
       	<config-file parent="/*" target="res/xml/config.xml">
          	<feature name="cordova-ReviewInAppPlugin">
-            	<param name="android-package" value="ReviewInAppPlugin.cordova-ReviewInAppPlugin" />
+            	<param name="android-package" value="ReviewInAppPlugin.ReviewInAppPluginClass" />
          	</feature>
       	</config-file>
 
