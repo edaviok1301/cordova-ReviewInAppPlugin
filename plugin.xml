@@ -28,7 +28,7 @@
 
 		<source-file src="src/android/ReviewInAppPluginClass.java" target-dir="src/ReviewInAppPlugin" />
 
-		<framework src="com.google.android.play:core:1.8.+" />
+		<framework src="com.google.android.play:core:1.10.3" />
    	</platform>
 
 
